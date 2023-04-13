@@ -1,0 +1,9 @@
+# heroku create
+# git push heroku main
+# heroku ps
+# heroku logs
+# heroku ps:scale web=1
+# heroku ps:scale web=0
+build:
+  docker:
+    web: Dockerfile

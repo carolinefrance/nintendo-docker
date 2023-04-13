@@ -1,0 +1,12 @@
+{
+  "characters": [
+    {
+      "name": "Mario",
+      "game": "Super Mario Bros"
+    },
+    {
+      "name": "Link",
+      "game": "Legend of Zelda"
+    }
+  ]
+}
