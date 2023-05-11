@@ -1,8 +1,8 @@
 # Helpful docker cmds
 # docker image list
 # docker ps -a or docker container list
-# docker system prune or docker system prune -a --volumes
-# docker build -t node-express-demo .
+# docker system prune or docker system prune -a --volumes    <-- deletes non-running images and containers
+# docker build -t node-express-demo .                        <-- builds Docker image
 # docker run -dp 3000:3000 --name node-express  node-express-demo
 # docker stop node-express
 # docker start node-express
